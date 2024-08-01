@@ -1,5 +1,5 @@
-                                       # 💫 Hi there, I am Ahmed Wael:
-                   🔭 I’m currently learning JavaScript, React and C#<br>👯 I’m looking to collaborate on front-end projects<br>🌱 I’m currently preparing for ECPC<br>⚡ Fun fact I am lazy but smart
+# 💫 Hello, I am Ahmed Wael:
+🔭 I’m currently learning JavaScript, React and C#<br>👯 I’m looking to collaborate on front-end projects<br>🌱 I’m currently preparing for ECPC<br>⚡ Fun fact I am lazy but smart
 
 
 ## 🌐 Socials:
