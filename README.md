@@ -16,8 +16,8 @@
   <a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Xilinx_logo.svg" alt="Vivado" width="40" height="40"/>
   </a>
-  <a href="https://upload.wikimedia.org/wikipedia/commons/e/ef/Cadence_Logo_2019.png" target="_blank" rel="noreferrer">
-    <img src="" alt="Cadence" width="40" height="40"/>
+  <a href="https://commons.wikimedia.org/wiki/File:Cadence_Logo_2019.png">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Cadence_Logo_2019.png" alt="Cadence" width="40" height="40"/>
   </a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   </a> </p>
