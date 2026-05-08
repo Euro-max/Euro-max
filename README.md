@@ -30,7 +30,7 @@
 ### 🔭 Currently Exploring
 - ⚡ **Analog IC Design** — op-amps, comparators, bandgap references
 - 🔢 **Digital IC Design** — RTL design, verification, and FPGA implementation
-
+- 🤖 **AI Hardware** — neural network accelerators, Machine Learning algorithms, hardware-efficient ML architectures, and AI inference on custom digital ICs
 ---
 
 ### 🛠️ Technical Stack
