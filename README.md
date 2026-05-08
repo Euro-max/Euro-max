@@ -28,7 +28,7 @@
 ---
 
 ### 🔭 Currently Exploring
-- ⚡ **Analog IC Design** — op-amps, comparators, bandgap references
+- ⚡ **Analog IC Design** — op-amps, comparators, fully differential amplifiers
 - 🔢 **Digital IC Design** — RTL design, verification, and FPGA implementation
 - 🤖 **AI Hardware** — neural network accelerators, Machine Learning algorithms, hardware-efficient ML architectures, and AI inference on custom digital ICs
 ---
@@ -70,7 +70,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://img.icons8.com/color/48/000000/verilog.png" height="40" alt="verilog logo" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png" height="40" alt="verilog logo" />
 </div>
 
 ---
@@ -78,10 +79,8 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Euro-max&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
-</div>
+
+
