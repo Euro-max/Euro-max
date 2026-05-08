@@ -70,8 +70,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
+  <img src="https://camo.githubusercontent.com/91359e7d30367860fc2e246185e7eaeac9836a5f18217b20eda5c62b69827eea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f566572696c6f672d3030303030303f7374796c653d666f722d7468652d6261646765" height="40" alt="verilog logo" />
+  <img src="https://camo.githubusercontent.com/bb27f6c7695f1f60a83eb44c7dd7cdc00fd3de7dee40e30f5d2c7fbc5fad1f3d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5648444c2d3030303030303f7374796c653d666f722d7468652d6261646765" height="40" alt="vhdl logo" />
+  <img src="https://camo.githubusercontent.com/eefa10da0e933985b49c187b375015c45eb65dcb70ce7b145ba5686384705333/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41524d2d3030393142443f7374796c653d666f722d7468652d6261646765" height="40" alt="vhdl logo" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/verilog.png" height="40" alt="verilog logo" />
+  
 </div>
 
 ---
